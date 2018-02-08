@@ -37,13 +37,13 @@ Prep Resources:
 It is IMPORTANT to complete all the pre-req in order to followup with this week's sessions.
 
 1. Fast.ai (Complete both of them)
--Part 1 Lessons: http://course.fast.ai/lessons/lesson1.html
--Part 2 Lessons: http://course.fast.ai/lessons/lesson2.html
+- Part 1 Lessons: http://course.fast.ai/lessons/lesson1.html
+- Part 2 Lessons: http://course.fast.ai/lessons/lesson2.html
 
 2. Stanford STAT385 Theories of Deep Learning (go through all the pdf, try to complete all 8 videos)
--list: https://stats385.github.io/readings
--Reading Lecture slides: https://stats385.github.io/lecture_slides
--Lecture videos: https://www.youtube.com/watch?v=KrTqxmS1-L4&list=PLhWmdj1YUpdT-UwCLVRNX509hZrKqZ83V
+- list: https://stats385.github.io/readings
+- Reading Lecture slides: https://stats385.github.io/lecture_slides
+- Lecture videos: https://www.youtube.com/watch?v=KrTqxmS1-L4&list=PLhWmdj1YUpdT-UwCLVRNX509hZrKqZ83V
 
 
 
