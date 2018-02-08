@@ -46,7 +46,6 @@ list: https://stats385.github.io/readings
 Reading Lecture slides: https://stats385.github.io/lecture_slides
 Lecture videos: https://www.youtube.com/watch?v=KrTqxmS1-L4&list=PLhWmdj1YUpdT-UwCLVRNX509hZrKqZ83V
 
--------------------------------------
 
 
 
