@@ -31,6 +31,9 @@ https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f
 Paperspace:
 https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md
 
+Floydhub:
+https://github.com/YuelongGuo/floydhub.fast.ai/blob/master/README.md
+
 ------------------------------------
 
 Prep Resources:
