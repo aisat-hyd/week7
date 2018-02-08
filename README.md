@@ -1,5 +1,5 @@
 # week7
-Practical Deep Learning - AI Sat week-1(We start AI Saturday syllabus from this week, so as per syllabus week-1)
+Practical Deep Learning - AI Sat week-1 (We start AI Saturday syllabus from this week, so as per syllabus week-1)
 
 -----------
 Preparation for week 7 of AI Saturday Hyderabad(10/2/2018)
