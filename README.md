@@ -1,6 +1,11 @@
 # week7
 Practical Deep Learning - AI Sat week-1 (We start AI Saturday syllabus from this week, so as per syllabus week-1)
 
+
+Today's resources:
+https://colab.research.google.com/drive/1t5ttbhQxDNIHVWsTTP8aSopfZpXljT9R
+
+
 -----------
 Preparation for week 7 of AI Saturday Hyderabad(10/2/2018)
 
