@@ -25,7 +25,7 @@ What would we cover this week?
 
 -------------------------------------
 
-Setup VM with GPU:
+[Setup VM with GPU:](#setup_gpu)
 
 Google Cloud:
 https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6
